@@ -1,4 +1,4 @@
-# Reverses a string with Shell Script (BASH)
+# Reverse a string using Shell Script (BASH)
 
 ```
 $ ./reverses.sh
